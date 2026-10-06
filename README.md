@@ -10,10 +10,10 @@ MailMind-AI is a Smart Email Assistant that helps you **generate AI-powered emai
 -  Integrated with Spring AI for natural language responses
 
 ##  Tech Stack
-**Frontend (Chrome Extension):** Manifest V3, JavaScript, HTML, CSS
-**Backend:** Java, Spring Boot, Spring AI, REST APIs, Maven
-**AI:** Gemini API
-**Tools:** Git, GitHub, npm
+**Frontend (Chrome Extension): Manifest V3, JavaScript, HTML, CSS
+**Backend: Java, Spring Boot, Spring AI, REST APIs, Maven
+**AI: Gemini API
+**Tools: Git, GitHub, npm
 
 ##  Project Structure
 MailMind-AI/
